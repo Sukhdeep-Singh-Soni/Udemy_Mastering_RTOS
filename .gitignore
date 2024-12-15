@@ -1,0 +1,10 @@
+.metadata/
+*.log
+*.cyclo
+*.d
+*.o
+*.su
+*.elf
+*.list
+*.map
+
